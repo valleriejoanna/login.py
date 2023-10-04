@@ -1,6 +1,6 @@
 body {
     font-family: Times New Roman, sans-serif;
-    background-image: url(wpp.jpeg);
+    background-image: url(birdiezz.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -9,7 +9,7 @@ body {
 }
 .container {
     width: 300px;
-    background-color: #6bf8ef61;
+    background-color: #808282;
     margin: 0 auto;
     margin-top: 200px;
     padding: 20px;
@@ -30,11 +30,11 @@ input[type="password"] {
 input[type="submit"] {
     width: 100%;
     padding: 10px;
-    background-color: #5bebe1c5;
+    background-color: #808282;
     color: #fff;
     border-radius: 5px;
     cursor: pointer;
 }
 input[type="submit"]:hover {
-    background-color: #5be3ecca;
+    background-color: #808282;
 }
